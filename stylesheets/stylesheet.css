@@ -28,6 +28,7 @@ a {
   .btn + .btn {
     margin-left: 1rem; }
 
+/*Added by me */
 .btn2 {
   border-radius: 4px;
   background-color:#3a6186;
